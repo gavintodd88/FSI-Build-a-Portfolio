@@ -1,9 +1,8 @@
-h1 {
-    font-family: "Arial";
-    color: #603F38;
+li {
+    background-color: lightblue;
   }
-  /* Bonus: change the color of your list elements */
-  li {
-    color: #CA2300
-    
+  
+  h1 {
+    color: rgb(67, 188, 3);
+    margin-left: 20px;
   }
